@@ -1,0 +1,8 @@
+-- insert into employees (name, departmentID) values ('John', 1);
+-- insert into employees (name, departmentID) values ('Bob', 2);
+-- insert into employees (name, departmentID) values ('JLo', 3);
+-- insert into departments (name, department_name) values ('SCI101','Science');
+-- insert into departments (name, department_name) values ('HIS101','History');
+-- insert into departments (name, department_name) values ('A101','Arts');
+-- Alter table employees add salary float not null;
+-- truncate table departments;
